@@ -17,7 +17,7 @@ function Apps() {
         >
           Branch test-1
         </a> */}
-        {/* <h1 className="App-link">Branch test-1 merge test-2 merge main</h1> */}
+        <h1 className="App-link">test-1</h1>
       </header>
     </div>
   );
