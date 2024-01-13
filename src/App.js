@@ -17,7 +17,7 @@ function App() {
         >
           Branch test-1
         </a> */}
-        <h1 className="App-link">Branch test-1 Edit in github page</h1>
+        <h1 className="App-link">Branch test-1 Edit in github pagepage</h1>
       </header>
     </div>
   );
