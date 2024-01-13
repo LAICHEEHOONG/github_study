@@ -17,7 +17,7 @@ function Apps() {
         >
           Branch test-1
         </a> */}
-          <h1 className="App-link">Fix image bug in github</h1>
+          <h1 className="App-link">Fix image bug in github...</h1>
       </header>
     </div>
   );
