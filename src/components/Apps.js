@@ -17,7 +17,7 @@ function Apps() {
         >
           Branch test-1
         </a> */}
-        <h1 className="App-link">Branch test-1 Edit in github page test-1 move to component folder and add s</h1>
+        <h1 className="App-link">Branch test-1 merge test-2 merge main</h1>
       </header>
     </div>
   );
