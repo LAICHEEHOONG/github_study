@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '../logo.svg';
+import '../App.css';
 
-function App() {
+function Apps() {
   return (
     <div className="App">
       <header className="App-header">
@@ -17,10 +17,10 @@ function App() {
         >
           Branch test-1
         </a> */}
-        <h1 className="App-link">Branch test-1 Edit in github pagepage test-1</h1>
+        <h1 className="App-link">Branch test-1 Edit in github page test-1 move to component folder and add s</h1>
       </header>
     </div>
   );
 }
 
-export default App;
+export default Apps;
